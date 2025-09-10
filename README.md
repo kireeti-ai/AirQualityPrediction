@@ -48,6 +48,6 @@ This project predicts the **Air Quality Index (AQI)** using various pollutant me
 ## ⚙️ Installation
 ```bash
 # Clone repository
-git clone https://github.com/your-username/AirQualityPrediction.git
+git clone https://github.com/kireeti-ai/AirQualityPrediction.git
 cd AirQualityPrediction
 
